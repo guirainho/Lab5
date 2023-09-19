@@ -1,4 +1,6 @@
-EXERCÍCIO - Escreva uma função com a assinatura "bool crescente(int v[], int n)" que recebe um vetor de número inteiros v com n elementos, e verifica se os elementos do vetor estão em ordem estritamente crescente. A função retorna true se estiver em ordem crescente e false, caso contrário.
+EXERCÍCIO - Escreva uma função com a assinatura "bool crescente(int v[], int n)" que recebe um vetor
+de número inteiros v com n elementos, e verifica se os elementos do vetor estão em ordem estritamente crescente. 
+A função retorna true se estiver em ordem crescente e false, caso contrário.
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
