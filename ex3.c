@@ -1,4 +1,5 @@
-Escreva uma função com a assinatura "bool contem(int v[], int n, int e)" que retorna se o vetor v com n inteiros contém ou não o elemento e. 
+Escreva uma função com a assinatura "bool contem(int v[], int n, int e)" que retorna se
+o vetor v com ninteiros contém ou não o elemento e. 
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
