@@ -1,3 +1,8 @@
+Escreva uma função com a assinatura "int busca_qtde(int v[], int n, int e)" que retorna
+a quantidade de ocorrências do elemento e no vetor v com n inteiros. 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 #include <stdio.h>
 
 int busca_qtde(int v[], int n, int e) {
