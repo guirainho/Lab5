@@ -1,3 +1,14 @@
+Escreva uma função que recebe dois vetores inteiros A[] e B[] e seus tamanhos. A função deve
+imprimir na tela os valores referentes à INTERSECÇÃO entre os vetores, ou seja, os
+elementos em comum entre os dois vetores. Considere que os vetores dados não possuem valores
+duplicados e não estão ordenados.:
+A[] = { 7, 2, 5, 8, 4} e B[]= {4, 2, 9, 5} então 
+A  B = {2, 5, 4} // resposta
+A[] = { 3, 9, 11} e B[]= {2, 6, 1} então 
+A  B= {} // resposta
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 #include <stdio.h>
 
 void imprimirIntersecao(int A[], int tamanhoA, int B[], int tamanhoB) {
