@@ -1,3 +1,12 @@
+Escreva uma função que recebe dois vetores inteiros A[] e B[] e seus tamanhos. A função deve imprimir
+os elementos que estão em A[] mas não estão em B[], ou seja, a diferença de A – B, por exemplo:
+A[] = { 7, 2, 5, 8, 4} e B[]= {4, 2, 9, 5} então 
+A – B = {7, 8 }
+A[] = { 3, 9, 11} e B[]= {2, 6, 1} então 
+A – B= {3, 9, 11}
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 #include <stdio.h>
 #include <stdbool.h>
 
