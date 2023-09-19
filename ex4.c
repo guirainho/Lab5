@@ -1,3 +1,7 @@
+Escreva uma função com a assinatura "int busca_primeiro(int v[], int n, int e)"	que retorna o índice da primeira ocorrência do elemento e no vetor v com n inteiros. Caso o elemento não seja encontrado, a função deve retornar o valor -1.
+    
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 #include <stdio.h>
 
 int busca_primeiro(int v[], int n, int e) {
