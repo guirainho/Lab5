@@ -1,3 +1,8 @@
+Escreva uma função que recebe um vetor de n elementos e retorna um inteiro com a
+quantidade de valores diferentes que existem no vetor.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    
 #include <stdio.h>
 
 int contarValoresDiferentes(int vetor[], int n) {
