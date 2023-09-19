@@ -1,3 +1,9 @@
+Escreva uma função que recebe um vetor de TAM 5 e inverte seus valores. Para o vetor abaixo:
+V = [ 4, 9, 10, 8, 6] 
+o vetor V invertido é igual a [6, 8, 10, 9, 4]
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 #include <stdio.h>
 
 void inverterVetor(int vetor[], int tamanho) {
